@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/08-associative_array/08.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/associativeArray/assArray.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/08-associative_array/08.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/associativeArray/associative_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/08-associative_array/associative_array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/associativeArray/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/associativeArray/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01-hello-tests/01.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/01-hello-tests/01.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01-hello-tests/01.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/01-hello-tests/01.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QOVUNq34XhW201yyjXnToeVA3v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "X:/it-incubator/Unit-tests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "X:/it-incubator/Unit-tests/node_modules/react-scripts",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "X:\\it-incubator\\Unit-tests\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\it-incubator\Unit-tests\src\unit-tests" />
+      <recent name="X:\it-incubator\Unit-tests\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.08-test.ts">
+    <configuration name="08-test.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/08-associative_array/08-test.ts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spliting into words should be correct" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/01-hello-tests/01.test.ts" />
+      <test-names>
+        <test-name value="spliting into words should be correct" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.08-test.ts" />
+        <item itemvalue="Jest.spliting into words should be correct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="" />
+      <created>1685224630248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685224630248</updated>
+      <workItem from="1685224632293" duration="6935000" />
+      <workItem from="1685304623619" duration="6506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
