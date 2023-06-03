@@ -1,5 +1,5 @@
 import {CityType} from "./02-02";
-import exp from "constants";
+
 
 let city: CityType;
 

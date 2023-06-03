@@ -13,7 +13,7 @@ export type HouseType = {
     address: AddressType
 }
 
-export type governmentBuildings = {
+export type governmentBuildingsType = {
     type: 'HOSPIATAL' | 'FIRE-STATION'
     budget: number
     staffCount: number
@@ -23,6 +23,6 @@ export type governmentBuildings = {
 export type CityType = {
     title: string
     houses: HouseType[]
-    governmentBuildings: governmentBuildings[]
+    governmentBuildings: governmentBuildingsType[]
     citizensNumber: number
 }

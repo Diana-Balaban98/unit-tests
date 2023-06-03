@@ -15,7 +15,6 @@ const funcTransformator = (man: ManType) => ({
     lastName: man.name.split(" ")[1]
 });
 
-
 const devs = [
     {
         stack: ["css/html", "js", "tdd", "react"],
