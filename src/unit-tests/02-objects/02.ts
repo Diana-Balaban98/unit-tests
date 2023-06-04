@@ -1,5 +1,5 @@
 
-type StudentType = {
+export type StudentType = {
     id: number
     name: string
     age: number
@@ -8,17 +8,17 @@ type StudentType = {
     technologies: TechnologiesType[]
 }
 
-type AddressType = {
+export type AddressType = {
     streetTitle: string
     city: CityType
 }
 
-type CityType = {
+export type CityType = {
     title: string
     countryTitle: string
 }
 
-type TechnologiesType = {
+export type TechnologiesType = {
     id: number
     title: string
 }

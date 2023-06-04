@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/05-map/05-02.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/05-map/05-02.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/05-map/05.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/05-map/05.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/05-map/05.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/05-map/05.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;X:/it-incubator/31may-Todolist&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diana/Desktop/catproject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,74 +56,72 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.create greeting messages for streets">
-    <configuration name="create greeting messages for streets" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.does student live in city?">
+    <configuration name="does student live in city?" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/05-map/05-02.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
       <test-names>
-        <test-name value="create greeting messages for streets" />
+        <test-name value="does student live in city?" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="list of streets titles og goverments buildings" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="new student should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/05-map/05-02.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
       <test-names>
-        <test-name value="list of streets titles og goverments buildings" />
+        <test-name value="new student should be added to student" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="list of streets titles" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="new tech skill should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/05-map/05-02.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
       <test-names>
-        <test-name value="list of streets titles" />
+        <test-name value="new tech skill should be added to student" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="reference type array test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="student should be made active" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/09-mutability/09.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
       <test-names>
-        <test-name value="reference type array test" />
+        <test-name value="student should be made active" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="should get array of greeting messages" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
       <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/05-map/05.test.ts" />
-      <test-names>
-        <test-name value="should get array of greeting messages" />
-      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.create greeting messages for streets" />
-        <item itemvalue="Jest.list of streets titles" />
-        <item itemvalue="Jest.list of streets titles og goverments buildings" />
-        <item itemvalue="Jest.should get array of greeting messages" />
-        <item itemvalue="Jest.reference type array test" />
+        <item itemvalue="Jest.does student live in city?" />
+        <item itemvalue="Jest.student should be made active" />
+        <item itemvalue="Jest.new student should be added to student" />
+        <item itemvalue="Jest.new tech skill should be added to student" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +144,9 @@
       <workItem from="1685608048892" duration="6490000" />
       <workItem from="1685740463286" duration="641000" />
       <workItem from="1685821680785" duration="7484000" />
+      <workItem from="1685885980993" duration="612000" />
+      <workItem from="1685886633591" duration="12000" />
+      <workItem from="1685905136402" duration="4660000" />
     </task>
     <servers />
   </component>
@@ -166,7 +164,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts</url>
           <line>6</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
