@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +146,7 @@
       <workItem from="1685885980993" duration="612000" />
       <workItem from="1685886633591" duration="12000" />
       <workItem from="1685905136402" duration="9109000" />
+      <workItem from="1685915378990" duration="37000" />
     </task>
     <servers />
   </component>
@@ -170,7 +169,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts</url>
           <line>88</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
