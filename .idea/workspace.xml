@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,72 +55,74 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.does student live in city?">
-    <configuration name="does student live in city?" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.Greeting message should be correct for city">
+    <configuration name="Greeting message should be correct for city" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
       <test-names>
-        <test-name value="does student live in city?" />
+        <test-name value="Greeting message should be correct for city" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="new student should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="House should be repared in staff" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
       <test-names>
-        <test-name value="new student should be added to student" />
+        <test-name value="House should be repared in staff" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="new tech skill should be added to student" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="House should be repared" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
       <test-names>
-        <test-name value="new tech skill should be added to student" />
+        <test-name value="House should be repared" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="student should be made active" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="Houses should be destroyed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
       <test-names>
-        <test-name value="student should be made active" />
+        <test-name value="Houses should be destroyed" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
+    <configuration name="staff should be increased" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
       <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
+      <test-names>
+        <test-name value="staff should be increased" />
+      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.does student live in city?" />
-        <item itemvalue="Jest.student should be made active" />
-        <item itemvalue="Jest.new student should be added to student" />
-        <item itemvalue="Jest.new tech skill should be added to student" />
-        <item itemvalue="npm.start" />
+        <item itemvalue="Jest.Greeting message should be correct for city" />
+        <item itemvalue="Jest.House should be repared in staff" />
+        <item itemvalue="Jest.staff should be increased" />
+        <item itemvalue="Jest.House should be repared" />
+        <item itemvalue="Jest.Houses should be destroyed" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,7 @@
       <workItem from="1685821680785" duration="7484000" />
       <workItem from="1685885980993" duration="612000" />
       <workItem from="1685886633591" duration="12000" />
-      <workItem from="1685905136402" duration="4660000" />
+      <workItem from="1685905136402" duration="9109000" />
     </task>
     <servers />
   </component>
@@ -165,6 +166,12 @@
           <url>file://$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts</url>
+          <line>88</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
