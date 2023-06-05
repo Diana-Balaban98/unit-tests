@@ -1,5 +1,5 @@
 // Ассоциативный массив - структура данных (объект)
-const user = {
+let user = {
     name: "Dimych",
     age: 12,
     address: {

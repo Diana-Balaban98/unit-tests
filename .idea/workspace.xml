@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/08-associative_array/associative_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/08-associative_array/associative_array.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diana/Desktop/catproject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diana/Desktop/WishList/wish_list&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,7 +56,7 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.Greeting message should be correct for city">
+  <component name="RunManager" selected="Jest.upgrade laptop to macbook">
     <configuration name="Greeting message should be correct for city" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -78,49 +81,49 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="House should be repared" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="change address" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
       <test-names>
-        <test-name value="House should be repared" />
+        <test-name value="change address" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="Houses should be destroyed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="reference type test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
       <test-names>
-        <test-name value="Houses should be destroyed" />
+        <test-name value="reference type test" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="staff should be increased" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="upgrade laptop to macbook" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
       <test-names>
-        <test-name value="staff should be increased" />
+        <test-name value="upgrade laptop to macbook" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.upgrade laptop to macbook" />
+        <item itemvalue="Jest.change address" />
+        <item itemvalue="Jest.reference type test" />
         <item itemvalue="Jest.Greeting message should be correct for city" />
         <item itemvalue="Jest.House should be repared in staff" />
-        <item itemvalue="Jest.staff should be increased" />
-        <item itemvalue="Jest.House should be repared" />
-        <item itemvalue="Jest.Houses should be destroyed" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +150,9 @@
       <workItem from="1685886633591" duration="12000" />
       <workItem from="1685905136402" duration="9109000" />
       <workItem from="1685915378990" duration="37000" />
+      <workItem from="1685948447370" duration="28000" />
+      <workItem from="1685966353920" duration="7486000" />
+      <workItem from="1685983081893" duration="4323000" />
     </task>
     <servers />
   </component>
