@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/08-associative_array/associative_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/08-associative_array/associative_array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,32 +55,8 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.upgrade laptop to macbook">
-    <configuration name="Greeting message should be correct for city" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
-      <test-names>
-        <test-name value="Greeting message should be correct for city" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="House should be repared in staff" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" />
-      <test-names>
-        <test-name value="House should be repared in staff" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="change address" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.update company2">
+    <configuration name="add company in array companies copyUser" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
@@ -89,11 +64,11 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
       <test-names>
-        <test-name value="change address" />
+        <test-name value="add company in array companies copyUser" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="reference type test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="remove Anna Karenina book" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
@@ -101,11 +76,11 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
       <test-names>
-        <test-name value="reference type test" />
+        <test-name value="remove Anna Karenina book" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="upgrade laptop to macbook" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="update company" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
@@ -113,17 +88,41 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
       <test-names>
-        <test-name value="upgrade laptop to macbook" />
+        <test-name value="update company" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="update company2" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-names>
+        <test-name value="update company2" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="update skills 75 to 82" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-names>
+        <test-name value="update skills 75 to 82" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.upgrade laptop to macbook" />
-        <item itemvalue="Jest.change address" />
-        <item itemvalue="Jest.reference type test" />
-        <item itemvalue="Jest.Greeting message should be correct for city" />
-        <item itemvalue="Jest.House should be repared in staff" />
+        <item itemvalue="Jest.update company2" />
+        <item itemvalue="Jest.update company" />
+        <item itemvalue="Jest.add company in array companies copyUser" />
+        <item itemvalue="Jest.remove Anna Karenina book" />
+        <item itemvalue="Jest.update skills 75 to 82" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <workItem from="1685915378990" duration="37000" />
       <workItem from="1685948447370" duration="28000" />
       <workItem from="1685966353920" duration="7486000" />
-      <workItem from="1685983081893" duration="4323000" />
+      <workItem from="1685983081893" duration="16134000" />
     </task>
     <servers />
   </component>
