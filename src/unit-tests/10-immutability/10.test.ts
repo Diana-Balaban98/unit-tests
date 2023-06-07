@@ -231,7 +231,7 @@ test('update company', () => {
         ]
     }
 
-    const userCopy = updateCompanyTitle(user, 1, 'EPAM') as UserWithLaptopType & WithCompaniesType
+    const userCopy= updateCompanyTitle(user, 1, 'EPAM') as UserWithLaptopType & WithCompaniesType
 
     expect(user).not.toBe(userCopy)
     expect(user.address).toBe(userCopy.address)

@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/04-filter/04.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,74 +60,74 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.update company2">
-    <configuration name="add company in array companies copyUser" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.buildings with correct count">
+    <configuration name="buildings with correct count" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
       <test-names>
-        <test-name value="add company in array companies copyUser" />
+        <test-name value="buildings with correct count" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="remove Anna Karenina book" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="get only completed tasks" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
       <test-names>
-        <test-name value="remove Anna Karenina book" />
+        <test-name value="get only completed tasks" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="update company" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="get only uncompleted tasks" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
       <test-names>
-        <test-name value="update company" />
+        <test-name value="get only uncompleted tasks" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="update company2" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="houses should be destroyed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
       <test-names>
-        <test-name value="update company2" />
+        <test-name value="houses should be destroyed" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="update skills 75 to 82" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="should take courses chipper 160" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
       <test-names>
-        <test-name value="update skills 75 to 82" />
+        <test-name value="should take courses chipper 160" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.update company2" />
-        <item itemvalue="Jest.update company" />
-        <item itemvalue="Jest.add company in array companies copyUser" />
-        <item itemvalue="Jest.remove Anna Karenina book" />
-        <item itemvalue="Jest.update skills 75 to 82" />
+        <item itemvalue="Jest.buildings with correct count" />
+        <item itemvalue="Jest.houses should be destroyed" />
+        <item itemvalue="Jest.get only uncompleted tasks" />
+        <item itemvalue="Jest.get only completed tasks" />
+        <item itemvalue="Jest.should take courses chipper 160" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +157,9 @@
       <workItem from="1685948447370" duration="28000" />
       <workItem from="1685966353920" duration="7486000" />
       <workItem from="1685983081893" duration="16134000" />
+      <workItem from="1686041340941" duration="8000" />
+      <workItem from="1686084388234" duration="1435000" />
+      <workItem from="1686150724468" duration="6651000" />
     </task>
     <servers />
   </component>
@@ -170,11 +178,6 @@
           <url>file://$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts</url>
-          <line>88</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

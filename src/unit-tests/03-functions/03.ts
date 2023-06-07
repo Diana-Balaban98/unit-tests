@@ -1,5 +1,5 @@
-import {CityType, StudentType} from "../02-objects/02";
-import exp from "constants";
+import {StudentType} from "../02-objects/02";
+import {CityType} from "./../02-objects/02-02";
 import {governmentBuildingsType, HouseType} from "../02-objects/02-02";
 
 const sum = (a: number, b: number) => {
