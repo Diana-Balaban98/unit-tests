@@ -106,7 +106,7 @@ test('houses should be destroyed', () => {
 
     demolishHousesOnTheStreet(city, 'Happy street')
 
-   expect(city.houses.length).toBe(1)
+    expect(city.houses.length).toBe(1)
     expect(city.houses[0].address.street.title).toBe('White street')
 })
 

@@ -13,9 +13,7 @@ export type TasksType = {
 
 export const takeOldMen = (ages: number[]) => ages.filter(a => a > 90);
 
-export const cheapPredicate = (course: CoursesType) => {
-    return course.price < 160
-}
+export const cheapPredicate = (course: CoursesType) => course.price < 160
 
 export const demolishHousesOnTheStreet = (city: CityType, street: string) => {
     city.houses = city.houses.filter(h => h.address.street.title !== street)
