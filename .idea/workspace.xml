@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unit-tests/04-filter/04.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02-02.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/02-objects/02.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03-02.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/03-functions/03.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/10-immutability/10.test.ts" afterDir="false" />
-    </list>
+    <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="test for method filter2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,11 +151,31 @@
       <workItem from="1686041340941" duration="8000" />
       <workItem from="1686084388234" duration="1435000" />
       <workItem from="1686150724468" duration="6651000" />
+      <workItem from="1686157868833" duration="751000" />
     </task>
+    <task id="LOCAL-00001" summary="test for method filter2">
+      <created>1686157948605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686157948605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test for method filter2">
+      <created>1686157966359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686157966359</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test for method filter2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for method filter2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

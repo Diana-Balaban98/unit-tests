@@ -53,7 +53,6 @@ test("new student should be added to student", () => {
             {id: 4, title: "Rest API"},
         ]
     }
-
     const res = addStudent(student, newStudent);
     expect(res.length).toBe(2);
     expect(res[1].age).toBe(24);

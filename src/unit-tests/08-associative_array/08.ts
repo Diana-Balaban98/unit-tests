@@ -1,5 +1,3 @@
-import exp from "constants";
-
 export const usersObj = {
     '0': 'Sasha',
     '1': 'Valera',
@@ -25,7 +23,6 @@ users[user.id] = user; // добавление пользователя
 delete users[user.id] // удаление пользователя
 users[user.id].name = "Victor" // обновление пользователя
 
-
 // обычный массив
 const usersArray = [
     {id: 101, name: "Dima"},
@@ -33,7 +30,6 @@ const usersArray = [
     {id: 13, name: "Elena"},
     {id: 74, name: "Andrey"},
 ]
-
 usersArray.find(el => el.id === 13) // поиск пользователя
 const usersCopy = [...usersArray, user] //добавление пользователя иммутабельно
 usersArray.push(user) // добавление пользователя мутабельно
