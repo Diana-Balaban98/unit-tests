@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="test for method filter2" />
+    <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="fix tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,31 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.buildings with correct count">
+  <component name="RunManager" selected="Jest.object destructuring">
+    <configuration name="Unnamed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" />
+      <test-names>
+        <test-name value="" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="array destructuring" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" />
+      <test-names>
+        <test-name value="array destructuring" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="buildings with correct count" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -61,30 +89,6 @@
       <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
       <test-names>
         <test-name value="buildings with correct count" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="get only completed tasks" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
-      <test-names>
-        <test-name value="get only completed tasks" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="get only uncompleted tasks" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
-      <test-names>
-        <test-name value="get only uncompleted tasks" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -100,25 +104,25 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="should take courses chipper 160" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="object destructuring" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" />
       <test-names>
-        <test-name value="should take courses chipper 160" />
+        <test-name value="object destructuring" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.object destructuring" />
+        <item itemvalue="Jest.array destructuring" />
+        <item itemvalue="Jest.Unnamed" />
         <item itemvalue="Jest.buildings with correct count" />
         <item itemvalue="Jest.houses should be destroyed" />
-        <item itemvalue="Jest.get only uncompleted tasks" />
-        <item itemvalue="Jest.get only completed tasks" />
-        <item itemvalue="Jest.should take courses chipper 160" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +155,9 @@
       <workItem from="1686041340941" duration="8000" />
       <workItem from="1686084388234" duration="1435000" />
       <workItem from="1686150724468" duration="6651000" />
-      <workItem from="1686157868833" duration="751000" />
+      <workItem from="1686157868833" duration="944000" />
+      <workItem from="1686255679008" duration="1191000" />
+      <workItem from="1686510852845" duration="6425000" />
     </task>
     <task id="LOCAL-00001" summary="test for method filter2">
       <created>1686157948605</created>
@@ -167,7 +173,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686157966359</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix tests">
+      <created>1686158719525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686158719525</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix tests">
+      <created>1686158729826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686158729826</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +195,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test for method filter2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test for method filter2" />
+    <MESSAGE value="fix tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
