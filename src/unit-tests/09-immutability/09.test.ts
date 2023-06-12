@@ -8,7 +8,7 @@ import {
     UserType,
     UserWithBooksType,
     UserWithLaptopType, UserWithSkillstype, WithCompaniesType
-} from "./10";
+} from "./09";
 
 test('reference type test', () => {
     let user: UserType = {

@@ -1,4 +1,4 @@
-import {usersObj} from "./08";
+import {usersObj} from "./07";
 
 type UsersType = {
     [key: string]: { id: number, name: string }

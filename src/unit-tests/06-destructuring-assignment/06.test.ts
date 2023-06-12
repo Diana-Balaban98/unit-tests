@@ -1,4 +1,4 @@
-import {UserType} from "./07";
+import {UserType} from "./06";
 
 let user: UserType;
 
