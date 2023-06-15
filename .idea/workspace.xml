@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f667ed54-2f2f-4fec-9078-7ef0f1ff08c3" name="Changes" comment="fix tests">
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/10-reducers/10-user-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit-tests/10-reducers/10.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,55 +55,7 @@
       <recent name="X:\it-incubator\Unit-tests\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.object destructuring">
-    <configuration name="Unnamed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" />
-      <test-names>
-        <test-name value="" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="array destructuring" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/07-destructuring-assignment/07.test.ts" />
-      <test-names>
-        <test-name value="array destructuring" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="buildings with correct count" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
-      <test-names>
-        <test-name value="buildings with correct count" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="houses should be destroyed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/unit-tests/04-filter/04.test.ts" />
-      <test-names>
-        <test-name value="houses should be destroyed" />
-      </test-names>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Jest.user reducer should change name of user">
     <configuration name="object destructuring" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -116,13 +68,59 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="user reducer should change name of user" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-reducers/10.test.ts" />
+      <test-names>
+        <test-name value="user reducer should change name of user" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="user reducer should increment only age" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-reducers/10.test.ts" />
+      <test-names>
+        <test-name value="user reducer should increment only age" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="user reducer should increment only childrenCount" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/unit-tests/10-reducers/10.test.ts" />
+      <test-names>
+        <test-name value="user reducer should increment only childrenCount" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.user reducer should change name of user" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.user reducer should increment only age" />
+        <item itemvalue="Jest.user reducer should increment only childrenCount" />
         <item itemvalue="Jest.object destructuring" />
-        <item itemvalue="Jest.array destructuring" />
-        <item itemvalue="Jest.Unnamed" />
-        <item itemvalue="Jest.buildings with correct count" />
-        <item itemvalue="Jest.houses should be destroyed" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +156,8 @@
       <workItem from="1686157868833" duration="944000" />
       <workItem from="1686255679008" duration="1191000" />
       <workItem from="1686510852845" duration="6425000" />
+      <workItem from="1686559477490" duration="2353000" />
+      <workItem from="1686658802467" duration="3213000" />
     </task>
     <task id="LOCAL-00001" summary="test for method filter2">
       <created>1686157948605</created>
@@ -187,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686158729826</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix tests">
+      <created>1686564446214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686564446214</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix tests">
+      <created>1686564457118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686564457118</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
